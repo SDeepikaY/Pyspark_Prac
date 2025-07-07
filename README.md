@@ -5,5 +5,7 @@ working with columns
 string function
 ![image](https://github.com/user-attachments/assets/2abbcdd4-8a2e-4a05-8fad-3499b588d433)
 
+Table snippet  
+![image](https://github.com/user-attachments/assets/63f88dae-56f9-4096-b9c9-e5190e7e6ddb)
 
-website : sparkbyexamples.com
+refer to website for other : sparkbyexamples.com
