@@ -30,4 +30,7 @@ refer to website for other : sparkbyexamples.com
 
 Redshift
 
-![image](https://github.com/user-attachments/assets/73ac3af4-b9c9-4856-b9a1-7677edb61789)
+![image](https://github.com/user-attachments/assets/73ac3af4-b9c9-4856-b9a1-7677edb61789) 
+
+![image](https://github.com/user-attachments/assets/05d885cc-6675-43c3-a059-433c5d109673)
+
