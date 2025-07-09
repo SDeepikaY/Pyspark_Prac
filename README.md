@@ -1,3 +1,4 @@
+pyspark commands :mostly used
 countries Table snippet  
 ![image](https://github.com/user-attachments/assets/63f88dae-56f9-4096-b9c9-e5190e7e6ddb)
 ![image](https://github.com/user-attachments/assets/b7015509-2cc2-4a3d-ad9a-d92b3a74116b)
@@ -26,3 +27,7 @@ sort
 
 
 refer to website for other : sparkbyexamples.com
+
+Redshift
+
+![image](https://github.com/user-attachments/assets/73ac3af4-b9c9-4856-b9a1-7677edb61789)
